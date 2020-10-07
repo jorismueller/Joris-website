@@ -18,14 +18,13 @@ organizations:
   url: "https://economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a fifth year PhD candidate at the Northwestern University Department of Economics. I currently study the role of contractors and strategic motives behind Chinese foreign aid to developing countries, how the rise of the internet and social networks contribute to the spread of political protests across developing countries, and how one of the largest historical policy experiments shapes national identity in Tanzania until today. Read more about my current and past research below.
+bio: I'm a fifth year PhD student at the Northwestern University Department of Economics. My research includes topics such as Chinese foreign aid to developing countries, the role of the internet in facilitating the spread of political protests across Africa and historical determinants of national identity in Tanzania.
 
 
 interests:
-- Development Economics (primary)
-- Political Economy (secondary)
-- Economic History (secondary)
-- Trade (secondary)
+- Development Economics
+- Political Economy
+- Economic History
 
 education:
   courses:

@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a fifth year PhD student at the Northwestern University Department of Economics. My research includes topics such as Chinese foreign aid to developing countries, the role of the internet in facilitating the spread of political protests across Africa and historical determinants of national identity in Tanzania.
+bio: I'm a fifth year PhD student at the Northwestern University Department of Economics. I study topics such as strategic motives behind Chinese foreign aid to developing countries, the role of the internet in facilitating the spread of political protests across Africa and historical determinants of national identity in Tanzania.
 
 
 interests:
@@ -74,4 +74,4 @@ highlight_name: false
 # - Visitors
 ---
 
-I'm a fifth year PhD student at the Northwestern University Department of Economics. My research includes topics such as Chinese foreign aid to developing countries, the role of the internet in facilitating the spread of political protests across Africa and historical determinants of national identity in Tanzania.
+I'm a fifth year PhD student at the Northwestern University Department of Economics. I study topics such as strategic motives behind Chinese foreign aid to developing countries, the role of the internet in facilitating the spread of political protests across Africa and historical determinants of national identity in Tanzania.

@@ -19,5 +19,5 @@ abstract: "I study Chinese contractors to uncover strategic motives behind devel
 
 summary: "I study Chinese contractors to uncover strategic motives behind development assistance by the Chinese government to developing countries."
 
-featured: false
+featured: true
 ---

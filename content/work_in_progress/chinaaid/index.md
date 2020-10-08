@@ -1,7 +1,7 @@
 ---
 title: "China's Development Assistance and the Role of its Firms"
 authors: ["Joris Mueller"]
-date: 2020-10-01
+date: 2020
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -13,9 +13,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "I study Chinese contractors to uncover strategic motives behind development assistance by the Chinese government to developing countries."
+abstract: "What drives Chinese foreign aid to developing countries? I study Chinese contractors to uncover new strategic motives."
 
-summary: "I study Chinese contractors to uncover strategic motives behind development assistance by the Chinese government to developing countries."
+summary: "What drives Chinese foreign aid to developing countries? I study Chinese contractors to uncover new strategic motives."
 
 featured: true
 ---

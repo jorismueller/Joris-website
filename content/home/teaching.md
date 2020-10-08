@@ -25,11 +25,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
-- date_end: "2019"
+- certificate_url: "files/teaching_evaluations_combined.pdf"
+  date_end: "2019"
   date_start: "2017"
   description: ""
   organization: Northwestern University
   organization_url:
   title: "See my teaching evaluations here."
-  url: "static/files/teaching_evaluations_combined.pdf"
+  url: ""
 ---

@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 95  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -24,7 +24,5 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017"
   date_end = "2019"
-  description = """
-  See my {{< staticref "https://www.jorismueller.com/files/teaching_evaluations_combined.pdf" "newtab" >}}teaching evaluations{{< /staticref >}}.
-  """
+  description = "Test"
 +++

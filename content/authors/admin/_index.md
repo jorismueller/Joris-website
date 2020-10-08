@@ -74,4 +74,4 @@ highlight_name: true
 # - Visitors
 ---
 
-I'm a 5th year PhD student at the Northwestern University Department of Economics. I'm currently studying Chinese contractors to uncover strategic motives driving foreign aid that China gives to developing countries. Find out more about this and my other research below. I also enjoy teaching applied statistics and econometric methods with a focus on causal inference. Prior to my PhD, I was a Swiss banker for several years and got a taste of the Swiss diplomatic service in Southeast Asia.
+I'm a 5th year PhD student at the Northwestern University Department of Economics. I'm currently studying Chinese contractors to uncover strategic motives driving foreign aid that China gives to developing countries. Find out more about this and my other research below. I also enjoy teaching applied statistics and econometric methods with a focus on causal inference. Prior to my PhD, I worked in the financial sector for several years and got a taste of the Swiss diplomatic service in Southeast Asia.

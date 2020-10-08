@@ -25,6 +25,6 @@ date_format = "Jan 2006"
   date_start = "2017"
   date_end = "2019"
   description = """
-  {{< icon name="download" pack="fas" >}} See my {{< staticref "files/teaching_evaluations_combined.pdf" "newtab" >}}teaching evaluations{{< /staticref >}}.
+  See my {{< staticref "files/teaching_evaluations_combined.pdf" "newtab" >}}teaching evaluations{{< /staticref >}}.
   """
 +++

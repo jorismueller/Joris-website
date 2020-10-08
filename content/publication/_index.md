@@ -9,7 +9,7 @@ title: Publications
 view: 4
 
 # Optional header image (relative to `static/media/` folder).
-header: China's Development Assistance and the Role of its Firms
-  caption: "Combining an original dataset with rich administrative data, I study Chinese contractors to uncover strategic motives behind development assistance by the Chinese government to developing countries."
+header: 
+  caption: 
   image: ""
 ---

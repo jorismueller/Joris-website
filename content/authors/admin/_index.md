@@ -52,9 +52,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://www.jorismueller.com/files/CV_20201008.pdf
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-4092-0325
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/0000-0002-4092-0325
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

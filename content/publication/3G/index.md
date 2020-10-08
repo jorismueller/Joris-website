@@ -1,8 +1,6 @@
 ---
-title: "Digital Networks and the Diffusion of Political Movements:Evidence from Mobile Internet in Africa"
-authors: [Joris Mueller, Utsav Manjeer] 
-doi: ""
-date = 2020-10-01
+title: "Digital Networks and the Diffusion of Political Movements: Evidence from Mobile Internet in Africa"
+authors: ["Joris Mueller", "Utsav Manjeer"] 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

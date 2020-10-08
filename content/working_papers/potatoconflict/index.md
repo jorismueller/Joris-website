@@ -1,7 +1,7 @@
 ---
 title: "The Long-Run Effects of Agricultural Productivity on Conflict, 1400–1900"
 authors: ["Joris Mueller", "Murat Iyigun", "Nathan Nunn", "Nancy Qian"]
-date: 2020
+date: 2020-01-20
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

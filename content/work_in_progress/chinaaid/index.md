@@ -1,7 +1,7 @@
 ---
 title: "China's Development Assistance and the Role of its Firms"
 authors: ["Joris Mueller"]
-date: 2020
+date: 2020-10-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

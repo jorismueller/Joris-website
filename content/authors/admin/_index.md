@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a fifth year PhD student at the Northwestern University Department of Economics. I'm interested in development economics. I currently do research on the strategic motives behind Chinese foreign aid to developing countries, the role of the internet in facilitating the spread of political protests across Africa and historical determinants of national identity in Tanzania, and more.
+bio: I'm a fifth year PhD student at the Northwestern University Department of Economics. I'm interested in development economics.
 
 
 interests:

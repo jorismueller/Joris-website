@@ -1,5 +1,5 @@
 ---
-title: "Digital Networks and the Diffusion of Political Movements: Evidence from Mobile Internet in Africa"
+title: "Digital Networks and the Diffusion of Political Movements"
 authors: ["Joris Mueller", "Utsav Manjeer"] 
 date: 2020
 

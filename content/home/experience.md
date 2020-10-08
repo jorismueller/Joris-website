@@ -24,7 +24,5 @@ date_format = "2006"
   location = ""
   date_start = "2017-01-01"
   date_end = "2019-12-31"
-  description = """
-  See my {{< staticref "files/teaching_evaluations_combined.pdf" "newtab" >}}teaching evaluations{{< /staticref >}}.
-  """
+  description = "See my {{< staticref "files/teaching_evaluations_combined.pdf" "newtab" >}}teaching evaluations{{< /staticref >}}."
 +++

@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 95
+weight: 100
 
 title: Teaching
 subtitle:
@@ -25,9 +25,8 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: "2017"
-  date_start: "2019"
+- date_end: "2019"
+  date_start: "2017"
   description: ""
   organization: Northwestern University
   organization_url:

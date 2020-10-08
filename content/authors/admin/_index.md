@@ -49,6 +49,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/joris-m%C3%BCller-49771841/
+- icon: cv
+  icon_pack: ai
+  link: https://www.jorismueller.com/files/CV_20201008.pdf
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

@@ -1,6 +1,8 @@
 ---
 title: China's Development Assistance and the Role of its Firms
 
+abstract: Combining an original dataset with rich administrative data, I study Chinese contractors to uncover strategic motives behind development assistance by the Chinese government to developing countries.
+
 # View.
 #   1 = List
 #   2 = Compact

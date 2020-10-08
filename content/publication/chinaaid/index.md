@@ -14,14 +14,12 @@ publishDate: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Job Market Paper"
+publication: ""
 publication_short: ""
 
 abstract: "I study Chinese contractors to uncover strategic motives behind development assistance by the Chinese government to developing countries."
 
 summary: "I study Chinese contractors to uncover strategic motives behind development assistance by the Chinese government to developing countries."
 
-tags:
-- Source Themes
 featured: false
 ---

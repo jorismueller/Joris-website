@@ -1,8 +1,6 @@
 ---
 title: "Forced Coexistence and National Identity in Tanzania"
-authors: [Joris Mueller, Ruth Carlitz, Ameet Morjaria] 
-doi: ""
-date = 2020-10-01
+authors: ["Joris Mueller", "Ruth Carlitz", "Ameet Morjaria"]
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

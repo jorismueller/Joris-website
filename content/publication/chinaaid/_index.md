@@ -1,7 +1,7 @@
 ---
 title: "China's Development Assistance and the Role of its Firms"
-authors: ["Joris Mueller"]
-- admin
+authors:
+- Joris Mueller
 date: "2019-04-07T00:00:00Z"
 doi: ""
 

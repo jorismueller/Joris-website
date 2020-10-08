@@ -1,17 +1,24 @@
 ---
-title: China's Development Assistance and the Role of its Firms
+title: "China's Development Assistance and the Role of its Firms"
 
-abstract: I study Chinese contractors to uncover strategic motives behind development assistance by the Chinese government to developing countries.
+date: 2020-10-07
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 2
+publishDate:
 
-# Optional header image (relative to `static/media/` folder).
-header: 
-  caption: 
-  image: ""
+authors: ["Joris Mueller"]
+
+publication_types: ["3"]
+
+summary: "I study Chinese contractors to uncover strategic motives behind development assistance by the Chinese government to developing countries."
+
+abstract: "I study Chinese contractors to uncover strategic motives behind development assistance by the Chinese government to developing countries."
+
+featured: false
+
+publication: "Manuscript"
+
+slides: ""
+image:
+   caption: 'China Aid'
+   preview_only: false
 ---

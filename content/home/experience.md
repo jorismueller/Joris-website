@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Northwestern University"
   company_url = ""
   location = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2017"
+  date_end = "2019"
   description = """
   See my {{< staticref "https://www.jorismueller.com/files/teaching_evaluations_combined.pdf" "newtab" >}}teaching evaluations{{< /staticref >}}.
   """

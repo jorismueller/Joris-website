@@ -19,10 +19,10 @@
   url = "#work_in_progress"
   weight = 40
   
-[[main]]
-  name = "Teaching"
-  url = "#experience"
-  weight = 50
+# [[main]]
+#  name = "Teaching"
+#  url = "#experience"
+#  weight = 50
 
 [[main]]
   name = "Contact"

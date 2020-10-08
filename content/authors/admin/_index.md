@@ -74,7 +74,7 @@ highlight_name: false
 # - Visitors
 ---
 
-I'm a fifth year PhD student at the Northwestern University Department of Economics. I'm mainly interested in development economics. My current research includes studying:
+I'm a fifth year PhD student at the Northwestern University Department of Economics. I'm mainly interested in development economics. I currently do research on:
 - the strategic motives behind Chinese foreign aid to developing countries,
 - the role of the internet in facilitating the spread of political protests across Africa,
 - the historical determinants of national identity in Tanzania

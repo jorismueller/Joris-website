@@ -74,9 +74,4 @@ highlight_name: false
 # - Visitors
 ---
 
-I'm a PhD student at the Northwestern University Department of Economics. I'm currently doing research on:
-- strategic motives behind Chinese foreign aid to developing countries
-- the role of the internet in facilitating the spread of political protests across Africa
-- historical determinants of national identity in Tanzania
-
-I also enjoy teaching applied statistics and econometric methods with a focus on causal inference.
+I'm a PhD student at the Northwestern University Department of Economics. My main research interests lie in development economics. I also enjoy teaching applied statistics and econometric methods with a focus on causal inference. Find out more about my research below. 

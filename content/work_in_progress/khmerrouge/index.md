@@ -1,5 +1,5 @@
 ---
-title: "Genocide and the Demand for Formal Institutions: Evidence from the Legacy of the Khmer Rouge"
+title: "Genocide and the Demand for Formal Institutions"
 authors: ["Joris Mueller", "Dennis Egger", "Ricardo Dahis"]
 date: 2018-05-01
 
@@ -13,9 +13,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "How does a legacy of violence and expropriation shape the demand for current property rights?"
+abstract: "How does the legacy of violence and expropriation by the Khmer Rouge shape the demand for current property rights in Cambodia?"
 
-summary: "How does a legacy of violence and expropriation shape the demand for current property rights?"
+summary: "How does the legacy of violence and expropriation by the Khmer Rouge shape the demand for current property rights in Cambodia?"
 
 featured: false
 ---

@@ -74,12 +74,9 @@ highlight_name: false
 # - Visitors
 ---
 
-I'm a fifth year PhD student at the Northwestern University Department of Economics. I'm mainly interested in development economics and applied microeconomics. 
-
-I currently do research on:
+I'm a fifth year PhD student at the Northwestern University Department of Economics. I currently do research on:
 - the strategic motives behind Chinese foreign aid to developing countries,
 - the role of the internet in facilitating the spread of political protests across Africa,
 - the historical determinants of national identity in Tanzania
-- and more.
 
-I enjoy teaching applied statistics and econometric methods with a focus on causal inference.
+I also enjoy teaching applied statistics and econometric methods with a focus on causal inference.

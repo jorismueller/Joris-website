@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a fifth year PhD student at the Northwestern University Department of Economics. I'm mainly interested in development economics.
+bio: I'm a fifth year PhD student at the Northwestern University Department of Economics.
 
 
 interests:
@@ -74,4 +74,4 @@ highlight_name: true
 # - Visitors
 ---
 
-I'm a PhD student at the Northwestern University Department of Economics. My main research interests lie in development economics. I also enjoy teaching applied statistics and econometric methods with a focus on causal inference. Find out more about my research below. 
+I'm a 5th year PhD student at the Northwestern University Department of Economics. I'm currently studying Chinese contractors to uncover strategic motives driving Chinese foreign aid to developing countries. Find out more about this and my other research below. I also enjoy teaching applied statistics and econometric methods with a focus on causal inference.

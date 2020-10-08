@@ -10,7 +10,7 @@ date: 2020-01-20
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Long-Run Effects of Agricultural Productivity on Conflict, 1400–1900"
+publication: "Manuscript"
 publication_short: ""
 
 abstract: "This paper provides evidence of the long-run effects of a permanent increase in agricultural productivity on conflict. We construct a newly digitized and geo-referenced dataset of battles in

@@ -1,12 +1,10 @@
 ---
 title: "China's Development Assistance and the Role of its Firms"
-authors:
-- Joris Mueller
-date: "2019-04-07T00:00:00Z"
+date: "2020-10-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-10-07T00:00:00Z"
+publishDate: "2020-10-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,11 +13,10 @@ publishDate: "2017-10-07T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Job Market Paper"
 publication_short: ""
 
 abstract: "I study Chinese contractors to uncover strategic motives behind development assistance by the Chinese government to developing countries."
 
 featured: false
-
 ---

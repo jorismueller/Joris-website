@@ -13,9 +13,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "Do new communication technologies facilitate the diffusion of political movements? We study 3G mobile internet in Africa to find out."
+abstract: "Does 3G mobile internet facilitate the diffusion of political movements across social networks in Africa?"
 
-summary: "Do new communication technologies facilitate the diffusion of political movements? We study 3G mobile internet in Africa to find out."
+summary: "Does 3G mobile internet facilitate the diffusion of political movements across social networks in Africa?"
 
 featured: false
 ---

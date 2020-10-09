@@ -15,11 +15,15 @@ publication_short: ""
 
 abstract: "This paper provides evidence of the long-run effects of a permanent increase in agricultural productivity on conflict. We construct a newly digitized and geo-referenced dataset of battles in
 Europe, the Near East, and North Africa from 1400–1900 CE and examine variation in agricultural productivity due to the introduction of potatoes from the Americas to the Old World after the Columbian
-Exchange. We find that the introduction of potatoes led to a sizeable and permanent reduction in conflict."
+Exchange. We find that the introduction of potatoes led to a sizeable and permanent reduction in conflict.
+
+Draft will be posted soon."
 
 summary: "This paper provides evidence of the long-run effects of a permanent increase in agricultural productivity on conflict. We construct a newly digitized and geo-referenced dataset of battles in
 Europe, the Near East, and North Africa from 1400–1900 CE and examine variation in agricultural productivity due to the introduction of potatoes from the Americas to the Old World after the Columbian
-Exchange. We find that the introduction of potatoes led to a sizeable and permanent reduction in conflict."
+Exchange. We find that the introduction of potatoes led to a sizeable and permanent reduction in conflict.
+
+Draft will be posted soon."
 
 featured: false
 ---

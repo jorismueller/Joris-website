@@ -1,12 +1,8 @@
 ---
 title: "The Long-Run Effects of Agricultural Productivity on Conflict, 1400–1900"
 
-authors: [
-"[Joris Mueller](https://www.jorismueller.com/)",
-"[Murat Iyigun](https://spot.colorado.edu/~iyigun/)",
-"[Nathan Nunn](https://scholar.harvard.edu/nunn/home/)",
-"[Nancy Qian](https://www.kellogg.northwestern.edu/faculty/qian/index.html/)",
-]
+authors: ["Joris Mueller","Murat Iyigun","Nathan Nunn","Nancy Qian"]
+
 date: 2020-01-20
 
 # Publication type.

@@ -1,7 +1,7 @@
 ---
 title: "The Long-Run Effects of Agricultural Productivity on Conflict, 1400–1900"
 
-authors = [
+authors: [
 "[Joris Mueller](https://www.jorismueller.com/)",
 "[Murat Iyigun](https://spot.colorado.edu/~iyigun/)",
 "[Nathan Nunn](https://scholar.harvard.edu/nunn/home/)",

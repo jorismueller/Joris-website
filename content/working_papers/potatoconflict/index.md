@@ -1,4 +1,4 @@
-+++
+---
 title: "The Long-Run Effects of Agricultural Productivity on Conflict, 1400–1900"
 authors: ["Joris Mueller","Murat Iyigun","Nathan Nunn","Nancy Qian"]
 date: 2020-01-20
@@ -22,5 +22,5 @@ Europe, the Near East, and North Africa from 1400–1900 CE and examine variatio
 Exchange. We find that the introduction of potatoes led to a sizeable and permanent reduction in conflict."
 
 featured: false
-+++
+---
 test(www.jorismueller.com)

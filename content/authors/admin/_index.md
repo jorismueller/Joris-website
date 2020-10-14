@@ -48,7 +48,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:jorismueller@u.northwestern.edu".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/joris-m%C3%BCller-49771841/
+  link: https://www.linkedin.com/in/joris-mueller-49771841/
 - icon: cv
   icon_pack: ai
   link: https://www.jorismueller.com/files/CV_20201008.pdf

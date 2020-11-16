@@ -1,5 +1,5 @@
 ---
-title: "China's Development Assistance and the Role of its Firms"
+title: "China’s Outward Foreign Aid and Domestic Strategic Motives"
 authors: ["Joris Mueller"]
 date: 2020-10-01
 

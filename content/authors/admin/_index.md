@@ -77,6 +77,6 @@ highlight_name: true
 
 I'm a 5th year PhD student at the Northwestern University Department of Economics. In my dissertation, I study interactions between the Chinese government and firms, with a focus on contractors implementing Chinese foreign aid projects in developing countries. Find out more about this and my other research below.
 
-I also enjoy teaching applied statistics and econometric methods with a focus on causal inference. Prior to my PhD, I worked in the financial sector for several years and got a taste of the Swiss diplomatic service in Southeast Asia.
+I also enjoy teaching statistics and applied econometrics with a focus on causal inference. Prior to my PhD, I worked in finance for several years and got a taste of the Swiss diplomatic service in Southeast Asia.
 
 jorismueller[at]u.northwestern.edu

@@ -1,7 +1,7 @@
 ---
 title: "China’s Outward Foreign Aid and Domestic Strategic Motives"
 authors: ["Joris Mueller"]
-date: 2020-10-01
+date: 2020-12-04
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

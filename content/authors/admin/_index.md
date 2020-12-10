@@ -51,7 +51,7 @@ social:
   link: https://www.linkedin.com/in/joris-mueller-49771841/
 - icon: cv
   icon_pack: ai
-  link: https://www.jorismueller.com/files/CV_20201204.pdf
+  link: https://www.jorismueller.com/files/CV.pdf
 # - icon: orcid
 #   icon_pack: ai
 #   link: https://orcid.org/0000-0002-4092-0325

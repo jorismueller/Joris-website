@@ -31,10 +31,10 @@ education:
   - course: PhD in Economics
     institution: Northwestern University
     year: 2022 (expected)
-  - course: MSc Economics
+  - course: MSc Economics (with distinction)
     institution: London School of Economics and Political Science
     year: 2016
-  - course: BA Economics
+  - course: BA Economics (summa cum laude)
     institution: University of Zurich
     year: 2014
 

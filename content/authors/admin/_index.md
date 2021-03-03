@@ -75,7 +75,7 @@ highlight_name: true
 # - Visitors
 ---
 
-I'm a 5th year PhD student at the Northwestern University Department of Economics. In my dissertation, I study interactions between the Chinese government and firms, with a focus on contractors implementing Chinese foreign aid projects in developing countries. Find out more about this and my other research below.
+I'm a 5th year PhD student at the Northwestern University Department of Economics. In my dissertation, I ask how domestic strategic motives shape the allocation of foreign aid that China gives to other developing countries. I make progress on this question by using a unique, novel dataset to study the allocation of aid projects to Chinese contractors. Find out more about this and my other research below.
 
 I also enjoy teaching statistics and applied econometrics with a focus on causal inference. Prior to my PhD, I worked in finance for several years and got a taste of the Swiss diplomatic service in Southeast Asia.
 

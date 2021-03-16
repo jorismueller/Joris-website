@@ -1,7 +1,7 @@
 ---
-title: "Forced Coexistence and National Identity in Tanzania"
+title: "Roots and Persistence of National Identity in Tanzania"
 authors: ["Joris Mueller", "Ruth Carlitz", "Ameet Morjaria"]
-date: 2020-08-01
+date: 2021-03-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -13,9 +13,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "We study one of the largest historical policy experiments in Africa and its persistent effects on nation-building."
+abstract: "We study one of the largest historical policy experiments in post-colonial Africa and its persistent effects on nation-building."
 
-summary: "We study one of the largest historical policy experiments in Africa and its persistent effects on nation-building."
+summary: "We study one of the largest historical policy experiments in post-colonial Africa and its persistent effects on nation-building."
 
 featured: false
 ---

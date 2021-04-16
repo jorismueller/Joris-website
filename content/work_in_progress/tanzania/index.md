@@ -1,6 +1,6 @@
 ---
 title: "Roots and Persistence of National Identity in Tanzania"
-authors: ["Joris Mueller", "Ruth Carlitz", "Ameet Morjaria"]
+authors: ["with Ruth Carlitz", "Ameet Morjaria"]
 date: 2021-03-01
 
 # Publication type.

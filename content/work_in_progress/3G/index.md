@@ -1,6 +1,6 @@
 ---
 title: "Digital Networks and the Diffusion of Political Movements"
-authors: ["Joris Mueller", "Utsav Manjeer"] 
+authors: ["with Utsav Manjeer"] 
 date: 2020-09-01
 
 # Publication type.

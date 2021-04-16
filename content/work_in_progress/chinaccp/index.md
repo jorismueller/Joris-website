@@ -1,6 +1,6 @@
 ---
 title: "Chinese Firms and the CCP"
-authors: ["Joris Mueller", "Jaya Wen"]
+authors: ["with Jaya Wen"]
 date: 2020-12-01
 
 # Publication type.

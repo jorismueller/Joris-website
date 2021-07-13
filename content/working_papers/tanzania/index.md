@@ -1,5 +1,5 @@
 ---
-title: "Roots and Persistence of National Identity in Tanzania"
+title: "State-Building in Multi-ethnic Societies: Origins of National Identity in Tanzania"
 authors: ["with Ruth Carlitz", "Ameet Morjaria"]
 date: 2021-04-01
 

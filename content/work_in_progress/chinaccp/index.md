@@ -1,6 +1,6 @@
 ---
 title: "Chinese Firms and the CCP"
-authors: ["with Jaya Wen"]
+authors: ["with Jaya Wen","Cheryl Wu"]
 date: 2021-04-01
 
 # Publication type.

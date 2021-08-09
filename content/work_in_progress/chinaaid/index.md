@@ -1,7 +1,7 @@
 ---
-title: "China’s Outward Foreign Aid and Domestic Strategic Motives"
+title: "Win-Win? China's Foreign Aid and Strategic Motives"
 authors: ["Joris Mueller"]
-date: 2021-04-16
+date: 2021-08-09
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -13,9 +13,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "What drives Chinese foreign aid to developing countries? I study Chinese contractors to uncover new strategic motives."
+abstract: "Using a unique and new firm-level dataset, I demonstrate how a domestic policy goal influences the allocation of China's outward aid and quantify its effect on recipient countries."
 
-summary: "What drives Chinese foreign aid to developing countries? I study Chinese contractors to uncover new strategic motives."
+summary: "Using a unique and new firm-level dataset, I demonstrate how a domestic policy goal influences the allocation of China's outward aid and quantify its effect on recipient countries."
 
 featured: true
 ---

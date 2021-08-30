@@ -3,7 +3,7 @@ title: "Chinese Capital Flight to the US Real Estate Market"
 
 authors: ["with Joe Long"]
 
-date: 2021-04-16
+date: 2021-08-29
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

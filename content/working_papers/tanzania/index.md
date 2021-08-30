@@ -1,7 +1,7 @@
 ---
 title: "State-Building in Multi-ethnic Societies: Origins of National Identity in Tanzania"
 authors: ["with Ruth Carlitz", "Ameet Morjaria"]
-date: 2021-04-01
+date: 2021-08-20
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

@@ -24,8 +24,8 @@ bio: I'm a sixth year PhD student at the Northwestern University Department of E
 interests:
 - Development Economics
 - Political Economy
-- Applied Microeconomics
 - Economic History
+- Applied Microeconomics
 
 education:
   courses:

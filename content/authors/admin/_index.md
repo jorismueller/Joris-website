@@ -76,6 +76,7 @@ highlight_name: true
 # - Visitors
 ---
 
-Site is under construction. Please visit again soon!
+I am a Ph.D. candidate in the Department of Economics at Northwestern University. My research focuses on the political economy of development, with a focus on the causes and consequences of Chinese foreign aid. I will be on the Job Market during the 2021-2022 academic year.
+
 
 jorismueller[at]u.northwestern.edu

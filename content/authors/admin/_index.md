@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a sixth year PhD student at the Northwestern University Department of Economics.
+bio: I am a Ph.D. candidate at the Northwestern University Department of Economics.
 
 
 interests:
@@ -76,7 +76,7 @@ highlight_name: true
 # - Visitors
 ---
 
-I am a Ph.D. candidate in the Department of Economics at Northwestern University. My research focuses on the political economy of development, with a focus on the causes and consequences of Chinese foreign aid. I will be on the Job Market during the 2021-2022 academic year.
+I am a Ph.D. candidate at the Northwestern University Department of Economics. My research focuses on the political economy of development, with a focus on the causes and consequences of Chinese foreign aid and overseas finance. I will be on the Job Market during the 2021-2022 academic year.
 
 
 jorismueller[at]u.northwestern.edu

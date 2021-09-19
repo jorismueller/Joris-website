@@ -1,5 +1,5 @@
 ---
-title: "Chinese Firms and the CCP"
+title: "The Party and Private Firms"
 authors: ["with Jaya Wen","Cheryl Wu"]
 date: 2021-04-01
 

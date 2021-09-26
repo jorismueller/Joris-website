@@ -13,9 +13,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "Evidence from the Russian expansion in Europe, 1400-1900"
+abstract: "Evidence from Europe, 1400-1900"
 
-summary: "Evidence from the Russian expansion in Europe, 1400-1900"
+summary: "Evidence from Europe, 1400-1900"
 
 featured: false
 ---

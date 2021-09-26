@@ -13,9 +13,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "Does 3G mobile internet facilitate the diffusion of political movements across social networks in Africa, independent of physical distance?"
+abstract: "Does 3G mobile internet facilitate the diffusion of political movements in and across countries?"
 
-summary: "Does 3G mobile internet facilitate the diffusion of political movements across social networks in Africa, independent of physical distance?"
+summary: "Does 3G mobile internet facilitate the diffusion of political movements in and across countries?"
 
 featured: false
 ---

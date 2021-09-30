@@ -1,7 +1,7 @@
 ---
 title: "Digital Networks and the Diffusion of Political Movements"
 authors: ["with Utsav Manjeer"] 
-date: 2020-09-01
+date: 2021-08-25
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

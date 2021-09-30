@@ -1,7 +1,7 @@
 ---
 title: "Agricultural Productivity, Inequality and The Size of Nations"
 authors: ["with Murat Iyigun","Andrei Markevich","Nancy Qian"]
-date: 2021-04-01
+date: 2021-08-20
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

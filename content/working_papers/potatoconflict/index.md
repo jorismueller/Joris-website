@@ -5,6 +5,9 @@ authors: ["with Murat Iyigun","Nathan Nunn","Nancy Qian"]
 
 date: 2020-01-20
 
+# Optional external URL for project (replaces project detail page).
+external_link: "https://www.jorismueller.com/files/Agricultural_productivity_conflict_latest_draft.pdf"
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

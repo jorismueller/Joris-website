@@ -3,13 +3,14 @@ title: "China's Foreign Aid: Political Determinants, Economic Effects"
 authors: ["Joris Mueller"]
 date: 2021-10-23
 
+# Optional external URL for project (replaces project detail page).
+external_link: "https://www.jorismueller.com/files/chinaaid_latest_draft.pdf"
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["0"]
-
-external_link: "https://www.jorismueller.com/files/chinaaid_latest_draft.pdf"
 
 # Publication name and optional abbreviated publication name.
 publication: "job market paper"

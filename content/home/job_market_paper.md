@@ -5,7 +5,6 @@ active = true  # Activate this widget? true/false
 weight = 29  # Order that this section will appear.
 
 title = "Job market paper"
-subtitle = "coming soon"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

@@ -3,7 +3,7 @@ title: "The Long-Run Effects of Agricultural Productivity on Conflict, 1400–19
 
 authors: ["with Murat Iyigun","Nathan Nunn","Nancy Qian"]
 
-date: 2020-01-20
+date: 2020-11-24
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.jorismueller.com/files/Agricultural_productivity_conflict_latest_draft.pdf"

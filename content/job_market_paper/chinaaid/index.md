@@ -1,7 +1,7 @@
 ---
 title: "China's Foreign Aid: Political Determinants, Economic Effects"
 authors: ["Joris Mueller"]
-date: 2021-10-23
+date: 2021-10-24
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.jorismueller.com/files/chinaaid_latest_draft.pdf"

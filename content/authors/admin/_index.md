@@ -76,7 +76,7 @@ highlight_name: true
 # - Visitors
 ---
 
-I am a Ph.D. candidate at the Northwestern University Department of Economics. My research focuses on the political economy of development, with particular emphasis on understanding the connection between economic forces and political instability in developing countries. My job market paper studies the determinants and consequences of Chinese foreign aid and other overseas finance. Other work documents how nation-building policies, digital media and agricultural productivity affect political stability.
+I am a Ph.D. candidate at the Northwestern University Department of Economics. My research focuses on the political economy of development, with particular emphasis on understanding the connection between economic forces and political instability in developing countries. In my job market paper, I study the determinants and consequences of Chinese foreign aid and other overseas finance. In other work, I document how nation-building policies, digital media and agricultural productivity affect political stability.
 
 **I will be on the job market during the 2021-2022 academic year.**
 

@@ -1,5 +1,5 @@
 ---
-title: "China's Foreign Aid: Political Determinants, Economic Effects"
+title: "China's Foreign Aid: Political Determinants and Economic Effects"
 authors: ["Joris Mueller"]
 date: 2021-11-04
 

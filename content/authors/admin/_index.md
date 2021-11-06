@@ -81,6 +81,6 @@ I am a Ph.D. candidate at the Northwestern University Department of Economics. M
 **I will be on the job market during the 2021-2022 academic year.**
 
 
-Email: jorismueller@u.northwestern.edu
+**Email:** jorismueller@u.northwestern.edu
 
-Job market website: https://sites.northwestern.edu/jmm7901/
+**Job market website:** https://sites.northwestern.edu/jmm7901/

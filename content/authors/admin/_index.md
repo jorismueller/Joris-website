@@ -22,10 +22,8 @@ bio: I am a Ph.D. candidate at the Northwestern University Department of Economi
 
 
 interests:
-- Development Economics
-- Political Economy
-- Economic History
-- Applied Microeconomics
+- Primary: Development Economics, Political Economy
+- Secondary: Economic History, Applied Microeconomics
 
 education:
   courses:
@@ -34,7 +32,7 @@ education:
     year: 2022 (expected)
   - course: MSc Economics
     institution: London School of Economics and Political Science
-    year: 2016 (with distinction)
+    year: 2016 (with Distinction)
   - course: BA Economics
     institution: University of Zurich
     year: 2014 (summa cum laude)

@@ -22,8 +22,10 @@ bio: I am a Ph.D. candidate at the Northwestern University Department of Economi
 
 
 interests:
-- Primary: Development Economics, Political Economy
-- Secondary: Economic History, Applied Microeconomics
+- Development Economics
+- Political Economy
+- Economic History
+- Applied Microeconomics
 
 education:
   courses:

@@ -13,9 +13,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "Evidence from Europe, 1400-1900"
+abstract: "We examine variation in agricultural productivity due to the introduction of potatoes from the Americas to the Old World after the Columbian Exchange to empirically test Alesina and Spolaore’s (2005) theory of heterogeneity and state size."
 
-summary: "Evidence from Europe, 1400-1900"
+summary: "We examine variation in agricultural productivity due to the introduction of potatoes from the Americas to the Old World after the Columbian Exchange to empirically test Alesina and Spolaore’s (2005) theory of heterogeneity and state size."
 
 featured: false
 ---

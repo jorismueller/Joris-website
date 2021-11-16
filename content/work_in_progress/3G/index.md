@@ -1,6 +1,6 @@
 ---
 title: "Digital Networks and the Diffusion of Political Movements"
-authors: ["with Utsav Manjeer"] 
+authors: ["with Ricardo Dahis","Utsav Manjeer"] 
 date: 2021-08-25
 
 # Publication type.
@@ -13,9 +13,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "Does 3G mobile internet promote the spread of political movements in and across countries?"
+abstract: "We exploit the staggered introduction of 3G mobile internet in Africa to examine the effect of new communication technologies on the spread of political unrest in and across countries. We design a novel empirical strategy that allows us to separate the direct effect of mobile internet on unrest from spillovers. We find that digital communication networks lead to the spread of unrest independent of physical distance. Preliminary evidence suggests that social media constitute an important channel."
 
-summary: "Does 3G mobile internet promote the spread of political movements in and across countries?"
+summary: "We exploit the staggered introduction of 3G mobile internet in Africa to examine the effect of new communication technologies on the spread of political unrest in and across countries. We design a novel empirical strategy that allows us to separate the direct effect of mobile internet on unrest from spillovers. We find that digital communication networks lead to the spread of unrest independent of physical distance. Preliminary evidence suggests that social media constitute an important channel."
 
 featured: false
 ---

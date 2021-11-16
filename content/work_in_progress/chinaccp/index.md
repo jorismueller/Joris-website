@@ -13,9 +13,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "Why does the Chinese Communist Party get involved in private firms?"
+abstract: "We use detailed administrative firm data and natural language processing techniques to understand the scope and motivations of the Chinese Communist Party's (CCP) growing involvement in the internal affairs of private firms in China."
 
-summary: "Why does the Chinese Communist Party get involved in private firms?"
+summary: "We use detailed administrative firm data and natural language processing techniques to understand the scope and motivations of the Chinese Communist Party's (CCP) growing involvement in the internal affairs of private firms in China."
 
 featured: false
 ---

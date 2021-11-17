@@ -13,9 +13,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "We use detailed administrative firm data and natural language processing techniques to understand the scope and motivations of the Chinese Communist Party's (CCP) growing involvement in the internal affairs of private firms in China."
+abstract: "We use detailed administrative firm data and natural language processing techniques to understand the scope of and motivations underlying the Chinese Communist Party's (CCP) growing involvement in the operations of private firms in China."
 
-summary: "We use detailed administrative firm data and natural language processing techniques to understand the scope and motivations of the Chinese Communist Party's (CCP) growing involvement in the internal affairs of private firms in China."
+summary: "We use detailed administrative firm data and natural language processing techniques to understand the scope of and motivations underlying the Chinese Communist Party's (CCP) growing involvement in the operations of private firms in China."
 
 featured: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "The Party and Private Firms"
+title: "The Party and the Firm"
 authors: ["with Jaya Wen","Cheryl Wu"]
 date: 2021-08-25
 

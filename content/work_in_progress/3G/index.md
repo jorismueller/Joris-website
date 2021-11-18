@@ -3,6 +3,10 @@ title: "Digital Networks and the Diffusion of Political Movements"
 authors: ["with Ricardo Dahis","Utsav Manjeer"] 
 date: 2021-08-25
 
+# Optional external URL for project (replaces project detail page).
+external_link: "https://jorismueller.com/files/3G_latest_slides_for_website.pdf"
+
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

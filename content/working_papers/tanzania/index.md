@@ -20,4 +20,4 @@ summary: "This paper examines the state-building process in an important context
 featured: false
 ---
 
-New draft coming soon!
+Draft is available on request.

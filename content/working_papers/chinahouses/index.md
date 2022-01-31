@@ -3,7 +3,7 @@ title: "Chinese Capital Flight to the U.S. Real Estate Market"
 
 authors: ["with Joe Long"]
 
-date: 2021-09-12
+date: 2022-01-31
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.jorismueller.com/files/Chinese_housing_latest_draft.pdf"

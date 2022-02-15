@@ -4,7 +4,7 @@ authors: ["with Ricardo Dahis","Utsav Manjeer"]
 date: 2021-08-25
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://jorismueller.com/files/3G_latest_slides_for_website.pdf"
+# external_link: "https://jorismueller.com/files/3G_latest_slides_for_website.pdf"
 
 
 # Publication type.
@@ -23,3 +23,5 @@ summary: "We exploit the staggered introduction of 3G mobile internet in Africa 
 
 featured: false
 ---
+
+Draft is under revision and available on request.

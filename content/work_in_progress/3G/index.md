@@ -24,4 +24,4 @@ summary: "We exploit the staggered introduction of 3G mobile internet in Africa 
 featured: false
 ---
 
-Draft is under revision and available on request.
+Draft is under revision. Slides are available on request.

@@ -6,7 +6,7 @@ authors: ["with Joe Long"]
 date: 2022-01-31
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.jorismueller.com/files/Chinese_housing_latest_draft.pdf"
+# external_link: "https://www.jorismueller.com/files/Chinese_housing_latest_draft.pdf"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,3 +25,5 @@ summary: "Wealthy foreign real estate buyers have increased rapidly over the pas
 
 featured: false
 ---
+
+Draft is under revision and available on request.

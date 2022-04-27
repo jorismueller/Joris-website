@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Northwestern University
-    year: 2022 (expected)
+    year: 2022
   - course: MSc Economics
     institution: London School of Economics and Political Science
     year: 2016 (with Distinction)

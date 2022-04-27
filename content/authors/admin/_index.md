@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Economics PhD Candidate
+role: Ph.D. Economics
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate at the Northwestern University Department of Economics.
+bio: I am an economist working on the political economy of development.
 
 
 interests:
@@ -76,10 +76,6 @@ highlight_name: true
 # - Visitors
 ---
 
-I am a Ph.D. candidate at the Northwestern University Department of Economics. My research focuses on the political economy of development, with particular emphasis on understanding the connection between economic forces and political instability in developing countries. In my job market paper, I study the determinants and consequences of Chinese foreign aid and other overseas finance. In other work, I document how nation-building policies, digital media and agricultural productivity affect political stability.
-
-I will join the Department of Economics at the National University of Singapore (NUS) as an Assistant Professor in summer 2022.
+I am an economist working on the political economy of development, with particular emphasis on understanding the connection between economic forces and political instability in developing countries. I will join the Department of Economics at the National University of Singapore (NUS) as an Assistant Professor of Economics in summer 2022.
 
 **Email:** jorismueller@u.northwestern.edu
-
-**Job market website:** https://sites.northwestern.edu/jmm7901/

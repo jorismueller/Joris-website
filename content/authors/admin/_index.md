@@ -14,8 +14,8 @@ role: Ph.D. Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Northwestern University
-  url: "https://economics.northwestern.edu/"
+- name: National University of Singapore
+  url: "https://fass.nus.edu.sg/ecs/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an economist working on the political economy of development.

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Economics
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:

@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:jorismueller@u.northwestern.edu".
+  link: '#contact'  # For a direct email link, use "mailto:jorismue@nus.edu.sg".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/joris-mueller-49771841/
@@ -78,4 +78,4 @@ highlight_name: true
 
 I am an economist working on the political economy of development, with particular emphasis on understanding the connection between economic forces and political instability in developing countries. I will join the Department of Economics at the National University of Singapore (NUS) as an Assistant Professor of Economics in summer 2022.
 
-**Email:** jorismueller@u.northwestern.edu
+**Email:** jorismue@nus.edu.sg

@@ -76,6 +76,6 @@ highlight_name: true
 # - Visitors
 ---
 
-I am an economist working on the political economy of development, with particular emphasis on understanding the connection between economic forces and political instability in developing countries. I will join the Department of Economics at the National University of Singapore (NUS) as an Assistant Professor of Economics in summer 2022.
+I am an Assistant Professor of Economics at the National University of Singapore. My research focuses on the political economy of development, with particular emphasis on the connections between economic forces and political instability in developing countries.
 
 **Email:** jorismue@nus.edu.sg

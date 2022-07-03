@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:jorismue@nus.edu.sg".
+  link: '#contact'  # For a direct email link, use "mailto:jorismueller@nus.edu.sg".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/joris-mueller-49771841/
@@ -78,4 +78,4 @@ highlight_name: true
 
 I am an Assistant Professor of Economics at the National University of Singapore. My research focuses on the political economy of development, with particular emphasis on the connections between economic forces and political instability in developing countries. I teach methods for doing research in applied microeconomics.
 
-**Email:** jorismue@nus.edu.sg
+**Email:** jorismueller@nus.edu.sg

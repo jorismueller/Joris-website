@@ -93,7 +93,7 @@ phone = "+65 9295 6505"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "NUS Department of Economics", city = "AS2 04-26, 1 Arts Link", region = "Singapore", postcode = "60201", country = "Singapore", country_code = "SG"}
+address = {street = "NUS Department of Economics", city = "AS2 04-26, 1 Arts Link", region = "Singapore", postcode = "117570", country = "Singapore", country_code = "SG"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

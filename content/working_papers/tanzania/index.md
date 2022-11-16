@@ -1,7 +1,7 @@
 ---
 title: "State-Building in a Diverse Society"
 authors: ["with Ruth Carlitz", "Ameet Morjaria"]
-date: 2022-11-15
+date: 2022-11-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

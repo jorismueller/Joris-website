@@ -1,8 +1,4 @@
 ---
-<meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
-<meta http-equiv='pragma' content='no-cache'>
-
 title: "State-Building in a Diverse Society"
 authors: ["with Ruth Carlitz", "Ameet Morjaria"]
 date: 2022-11-15

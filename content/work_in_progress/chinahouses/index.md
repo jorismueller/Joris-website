@@ -26,4 +26,4 @@ summary: "Wealthy foreign real estate buyers have increased rapidly over the pas
 featured: false
 ---
 
-Draft is under revision and available on request.
+Draft is under revision. Slides are available on request.

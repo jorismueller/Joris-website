@@ -19,3 +19,5 @@ summary: "We use detailed administrative firm data and natural language processi
 
 featured: false
 ---
+
+Draft is under revision. Slides are available on request.

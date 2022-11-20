@@ -4,7 +4,7 @@ authors: ["Joris Mueller"]
 date: 2022-08-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.jorismueller.com/files/chinaaid_latest_draft.pdf"
+# external_link: "https://www.jorismueller.com/files/chinaaid_latest_draft.pdf"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,3 +26,6 @@ summary: "The efficacy of foreign aid, especially when given to satisfy the obje
 
 featured: true
 ---
+
+Draft is under revision and available on request.
+

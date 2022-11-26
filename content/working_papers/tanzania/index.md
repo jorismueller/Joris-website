@@ -1,7 +1,10 @@
 ---
 title: "State-Building in a Diverse Society"
 authors: ["with Ruth Carlitz", "Ameet Morjaria"]
-date: 2022-11-01
+date: 2022-11-26
+
+# Optional external URL for project (replaces project detail page).
+external_link: "https://www.jorismueller.com/files/statebuilding_Ujamaa_latest_draft.pdf"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -14,12 +17,10 @@ publication: ""
 publication_short: ""
 
 abstract: "
-Diversity poses fundamental challenges to state-building and governance. We study the long-term effects of one of post-colonial Africa's largest state-building exercises - the Tanzanian Ujamaa policy - which aimed to address these challenges. Ujamaa aimed at creating a national identity and establishing state legitimacy by mandating a highly diverse population to live in planned villages where children received political education. We combine differences in the exposure to Ujamaa across space and age cohorts to identify the policy's impact. We show persistent, positive effects on national identity based on surveys and inter-ethnic marriages. We observe no systematic changes among cohorts that were above or below treatment-age during Ujamaa. Our preferred interpretation, supported by evidence that considers alternative hypotheses, is that changes to educational content drive our findings. Moreover, while Ujamaa contributed to establishing the new Tanzanian state as a legitimate central authority, this came at the expense of demands for democratic accountability."
+Diversity poses fundamental challenges to state-building and development. We study the effects of one of post-colonial Africa's largest policy experiments — the Tanzanian Ujamaa policy — which attempted to address these challenges. Ujamaa aimed to create a national identity and consolidate state authority by mandating a highly diverse population to live in planned villages, where children received political education. We combine differences in exposure to Ujamaa across space and age to identify long-term impacts of the policy. We show persistent, positive effects on national identity based on surveys and inter-ethnic marriages. We observe no systematic differences for cohorts that were above or below treatment-age during Ujamaa. Our preferred interpretation, supported by evidence that considers alternative hypotheses, is that changes to educational content drive our findings. Moreover, while Ujamaa contributed to establishing the Tanzanian state as a legitimate central authority, it appears to have lowered demands for democratic accountability."
 
 summary: "
-Diversity poses fundamental challenges to state-building and governance. We study the long-term effects of one of post-colonial Africa's largest state-building exercises - the Tanzanian Ujamaa policy - which aimed to address these challenges. Ujamaa aimed at creating a national identity and establishing state legitimacy by mandating a highly diverse population to live in planned villages where children received political education. We combine differences in the exposure to Ujamaa across space and age cohorts to identify the policy's impact. We show persistent, positive effects on national identity based on surveys and inter-ethnic marriages. We observe no systematic changes among cohorts that were above or below treatment-age during Ujamaa. Our preferred interpretation, supported by evidence that considers alternative hypotheses, is that changes to educational content drive our findings. Moreover, while Ujamaa contributed to establishing the new Tanzanian state as a legitimate central authority, this came at the expense of demands for democratic accountability."
+Diversity poses fundamental challenges to state-building and development. We study the effects of one of post-colonial Africa's largest policy experiments — the Tanzanian Ujamaa policy — which attempted to address these challenges. Ujamaa aimed to create a national identity and consolidate state authority by mandating a highly diverse population to live in planned villages, where children received political education. We combine differences in exposure to Ujamaa across space and age to identify long-term impacts of the policy. We show persistent, positive effects on national identity based on surveys and inter-ethnic marriages. We observe no systematic differences for cohorts that were above or below treatment-age during Ujamaa. Our preferred interpretation, supported by evidence that considers alternative hypotheses, is that changes to educational content drive our findings. Moreover, while Ujamaa contributed to establishing the Tanzanian state as a legitimate central authority, it appears to have lowered demands for democratic accountability."
 
 featured: false
 ---
-
-Draft is under revision and available on request.

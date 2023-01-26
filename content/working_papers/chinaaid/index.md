@@ -1,5 +1,5 @@
 ---
-title: "China's Foreign Aid: Political Determinants and Economic Effects [https://www.jorismueller.com/files/chinaaid_latest_draft.pdf](pdf)"
+title: "China's Foreign Aid: Political Determinants and Economic Effects" [https://www.jorismueller.com/files/chinaaid_latest_draft.pdf](pdf)
 authors: ["Joris Mueller"]
 date: 2023-01-25
 

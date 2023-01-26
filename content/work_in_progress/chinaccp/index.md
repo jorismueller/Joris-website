@@ -1,7 +1,7 @@
 ---
 title: "The Party and the Firm"
 authors: ["with Jaya Wen","Cheryl Wu"]
-date: 2021-08-25
+date: 2023-01-20
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

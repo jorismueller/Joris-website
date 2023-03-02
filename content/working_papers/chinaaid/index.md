@@ -1,7 +1,7 @@
 --- 
 title: "China's Foreign Aid: Political Determinants and Economic Effects"
 authors: ["Joris Mueller"]
-date: 2023-01-25
+date: 2023-03-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.jorismueller.com/files/chinaaid_latest_draft.pdf"
@@ -16,14 +16,14 @@ publication_types: ["0"]
 publication: "job market paper"
 publication_short: ""
 
-abstract: "China has recently become the largest provider of official finance to developing countries. I link project-level data with administrative firm-level data from China to identify political determinants and economic consequences of Chinese foreign aid. I document that when there is labor unrest in a Chinese prefecture, contracts for infrastructure aid projects are allocated to state-owned firms in the prefecture, and employment by these firms increases. Connections between these firms and other countries mean that China's response to domestic unrest affects the allocation of Chinese aid projects to recipient countries. I exploit this variation to develop a novel instrument for identifying the causal effects of Chinese aid on recipients. I find large positive short-term and small long-term effects on GDP, consumption and employment. <br/>
+abstract: "This study jointly examines causal determinants and effects of Chinese foreign aid. Using novel micro data, I first document that the Chinese state's paramount goal of domestic political stability significantly influences its aid allocation decisions. In response to labor unrest in a Chinese prefecture, infrastructure aid contracts are allocated to state-owned firms in the prefecture, resulting in increased employment. These firms' connections with other countries mean that domestic unrest also affects the allocation of Chinese aid to recipient countries. Finally, I exploit this granular variation to develop a novel instrument for identifying the causal effects of Chinese aid on recipients. Results show large positive short-term but small long-term effects on GDP, consumption and employment. The findings highlight the importance of domestic political considerations in shaping aid allocation and the potential spillover effects on recipients. <br/>
 
 *Media coverage: Project Syndicate, US-China Today, [[VoxDev]](https://voxdev.org/topic/institutions-political-economy/chinese-foreign-aid-can-self-interest-benefit-recipients)* <br/>
 
 [[pdf]](https://www.jorismueller.com/files/chinaaid_latest_draft.pdf/)"
 
 
-summary: "China has recently become the largest provider of official finance to developing countries. I link project-level data with administrative firm-level data from China to identify political determinants and economic consequences of Chinese foreign aid. I document that when there is labor unrest in a Chinese prefecture, contracts for infrastructure aid projects are allocated to state-owned firms in the prefecture, and employment by these firms increases. Connections between these firms and other countries mean that China's response to domestic unrest affects the allocation of Chinese aid projects to recipient countries. I exploit this variation to develop a novel instrument for identifying the causal effects of Chinese aid on recipients. I find large positive short-term and small long-term effects on GDP, consumption and employment. <br/>
+summary: "This study jointly examines causal determinants and effects of Chinese foreign aid. Using novel micro data, I first document that the Chinese state's paramount goal of domestic political stability significantly influences its aid allocation decisions. In response to labor unrest in a Chinese prefecture, infrastructure aid contracts are allocated to state-owned firms in the prefecture, resulting in increased employment. These firms' connections with other countries mean that domestic unrest also affects the allocation of Chinese aid to recipient countries. Finally, I exploit this granular variation to develop a novel instrument for identifying the causal effects of Chinese aid on recipients. Results show large positive short-term but small long-term effects on GDP, consumption and employment. The findings highlight the importance of domestic political considerations in shaping aid allocation and the potential spillover effects on recipients. <br/>
 
 *Media coverage: Project Syndicate, US-China Today, [[VoxDev]](https://voxdev.org/topic/institutions-political-economy/chinese-foreign-aid-can-self-interest-benefit-recipients)* <br/>
 

@@ -1,7 +1,7 @@
 ---
 title: "State-Building in a Diverse Society"
 authors: ["with Ruth Carlitz", "Ameet Morjaria"]
-date: 2022-11-26
+date: 2023-10-20
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.jorismueller.com/files/statebuilding_Ujamaa_latest_draft.pdf"

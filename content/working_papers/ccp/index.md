@@ -1,7 +1,7 @@
 ---
 title: "The Party and the Firm"
 authors: ["with Jaya Wen","Cheryl Wu"]
-date: 2023-12-07
+date: 2023-12-05
 
 external_link: "https://www.jorismueller.com/files/The_Party_and_the_Firm.pdf/"
 

@@ -1,5 +1,5 @@
 ---
-title: "The Political Economy of Chinese Resource Extraction: A new Dataset"
+title: "The Political Economy of Chinese Resource Extraction: A New Dataset"
 
 authors: ["with David Kreitmeir"]
 

@@ -28,7 +28,7 @@ summary: "
 ** *Forthcoming, AEA Papers & Proceedings* ** <br/>
 This study uses historical conflict and weather data for the period of 1400-1900 CE to investigate the long-run effects of climate change on political instability in a context that suffered extensive cooling. The results show that temperature changes have little effect on conflict if they are isolated events, but consecutive periods of cooling are associated with increased conflict. This is consistent with conventional wisdom that societies and economies are able to adapt to a certain amount of environmental change. But if climate change is prolonged, then the disruptions that they cause can cumulate and lead to political instability. <br/>"
 
-#[[pdf]]()"
+[[pdf]](https://www.jorismueller.com/files/Climate_conflict_AEAPP.pdf/)"
 
 featured: false
 ---

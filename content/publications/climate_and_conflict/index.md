@@ -3,7 +3,7 @@ title: "The Intensifying Effects of Prolonged Climate Change on Conflict, 1400-1
 
 authors: ["with Murat Iyigun","Nancy Qian"]
 
-date: 2024-02-01
+date: 2024-02-16
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.jorismueller.com/files/Climate_conflict_AEAPP.pdf/"

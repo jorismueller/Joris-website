@@ -25,7 +25,6 @@ interests:
 - Political Economy
 - Development Economics
 - Economic History
-- Applied Microeconomics
 
 education:
   courses:

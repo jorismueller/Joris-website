@@ -4,8 +4,7 @@ authors: ["with Richard Bluhm","Ameet Morjaria"]
 date: 2023-03-15
 
 # Optional external URL for project (replaces project detail page).
-# external_link: "https://jorismueller.com/files/3G_latest_slides_for_website.pdf"
-
+# external_link: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

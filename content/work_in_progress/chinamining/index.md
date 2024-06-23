@@ -3,7 +3,7 @@ title: "The Political Economy of Chinese Resource Extraction: A New Dataset"
 
 authors: ["with David Kreitmeir"]
 
-date: 2023-03-16
+date: 2024-05-01
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""

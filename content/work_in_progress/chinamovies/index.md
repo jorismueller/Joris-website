@@ -1,7 +1,7 @@
 ---
 title: "China Goes Hollywood"
 authors: ["with Ruben Durante"] 
-date: 2024-06-10
+date: 2024-05-15
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""

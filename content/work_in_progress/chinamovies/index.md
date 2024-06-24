@@ -1,6 +1,6 @@
 ---
 title: "China Goes Hollywood"
-authors: ["with Ruben Durante, Chuyue Tian"] 
+authors: ["with Ruben Durante","Chuyue Tian"] 
 date: 2024-05-15
 
 # Optional external URL for project (replaces project detail page).

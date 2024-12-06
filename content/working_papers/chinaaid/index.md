@@ -1,7 +1,7 @@
 --- 
-title: "China's Foreign Aid: Political Determinants and Economic Effects"
+title: "The Domestic Political Economy of China's Foreign Aid"
 authors: ["Joris Mueller"]
-date: 2024-01-31
+date: 2024-12-06
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.jorismueller.com/files/chinaaid_latest_draft.pdf"
@@ -17,17 +17,17 @@ publication: "job market paper"
 publication_short: ""
 
 abstract: "
-There has been much speculation on the motives behind the large sums of foreign aid some countries provide to other countries. I address this question in the context of China, which is arguably the largest, most controversial, and most poorly understood donor. Using unique micro data, I find that the Chinese state's goal of domestic political stability drives a significant share of its aid allocation. I first document that in response to labor unrest in China, infrastructure aid contracts are allocated to state-owned firms in the affected areas, resulting in increased employment and future stability. Through existing connections between recipient countries and these firms, local unrest in China also significantly affects the allocation of Chinese aid to recipients. Finally, I exploit this granular variation to develop a novel shift-share instrument for identifying the causal effects of Chinese aid on recipients. I find large positive short-term effects on GDP but few signs of economic growth, household consumption or employment resulting from Chinese aid in the long term. <br/>
+I study how domestic political considerations influence the foreign policy choices of autocratic regimes, by analyzing the case of Chinese foreign aid. First, using contractor-level data, I find that the regime allocates foreign aid projects to help maintain political stability: aid projects are awarded to state-owned firms in Chinese prefectures hit by social unrest, increasing employment and political stability. Second, I show that this strategy to manage domestic unrest affects the global allocation of Chinese aid, since state-owned firms pursue projects in countries where they have prior connections. Finally, I document that foreign aid triggered by domestic unrest does not affect political instability in recipient countries on average. <br/>
 
-*Media coverage: Project Syndicate, US-China Today, [[VoxDev]](https://voxdev.org/topic/institutions-political-economy/chinese-foreign-aid-can-self-interest-benefit-recipients)* <br/>
+*Media coverage: Project Syndicate, US-China Today, VoxDev* <br/>
 
 [[pdf]](https://www.jorismueller.com/files/chinaaid_latest_draft.pdf/)"
 
 
 summary: "
-There has been much speculation on the motives behind the large sums of foreign aid some countries provide to other countries. I address this question in the context of China, which is arguably the largest, most controversial, and most poorly understood donor. Using unique micro data, I find that the Chinese state's goal of domestic political stability drives a significant share of its aid allocation. I first document that in response to labor unrest in China, infrastructure aid contracts are allocated to state-owned firms in the affected areas, resulting in increased employment and future stability. Through existing connections between recipient countries and these firms, local unrest in China also significantly affects the allocation of Chinese aid to recipients. Finally, I exploit this granular variation to develop a novel shift-share instrument for identifying the causal effects of Chinese aid on recipients. I find large positive short-term effects on GDP but few signs of economic growth, household consumption or employment resulting from Chinese aid in the long term. <br/>
+I study how domestic political considerations influence the foreign policy choices of autocratic regimes, by analyzing the case of Chinese foreign aid. First, using contractor-level data, I find that the regime allocates foreign aid projects to help maintain political stability: aid projects are awarded to state-owned firms in Chinese prefectures hit by social unrest, increasing employment and political stability. Second, I show that this strategy to manage domestic unrest affects the global allocation of Chinese aid, since state-owned firms pursue projects in countries where they have prior connections. Finally, I document that foreign aid triggered by domestic unrest does not affect political instability in recipient countries on average. <br/>
 
-*Media coverage: Project Syndicate, US-China Today, [[VoxDev]](https://voxdev.org/topic/institutions-political-economy/chinese-foreign-aid-can-self-interest-benefit-recipients)* <br/>
+*Media coverage: Project Syndicate, US-China Today, VoxDev* <br/>
 
 [[pdf]](https://www.jorismueller.com/files/chinaaid_latest_draft.pdf/)"
 

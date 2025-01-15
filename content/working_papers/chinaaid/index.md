@@ -1,7 +1,7 @@
 --- 
 title: "The Domestic Political Economy of China's Foreign Aid"
 authors: ["Joris Mueller"]
-date: 2024-12-06
+date: 2024-12-25
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.jorismueller.com/files/chinaaid_latest_draft.pdf"
@@ -17,17 +17,17 @@ publication: "job market paper"
 publication_short: ""
 
 abstract: "
-I study how domestic political considerations influence the foreign policy choices of autocratic regimes, by analyzing the case of Chinese foreign aid. First, using contractor-level data, I find that the regime allocates foreign aid projects to help maintain political stability: aid projects are awarded to state-owned firms in Chinese prefectures hit by social unrest, increasing employment and political stability. Second, I show that this strategy to manage domestic unrest affects the global allocation of Chinese aid, since state-owned firms pursue projects in countries where they have prior connections. Finally, I document that foreign aid triggered by domestic unrest does not affect political instability in recipient countries on average. <br/>
+I study how domestic political considerations influence the foreign policy choices of autocratic regimes, by analyzing China's foreign aid. First, using contractor-level data, I find that the regime allocates foreign aid projects to help maintain political stability: aid projects are awarded to state-owned firms in Chinese prefectures hit by social unrest, increasing employment and political stability. Second, I show that this strategy to manage domestic unrest affects the global allocation of Chinese aid, since state-owned firms pursue projects in countries where they have prior connections. Finally, I document that foreign aid triggered by domestic unrest does not affect political instability in recipient countries on average. <br/>
 
-*Media coverage: Project Syndicate, US-China Today, VoxDev* <br/>
+*Media coverage: AidData, Project Syndicate, US-China Today, VoxDev* <br/>
 
 [[pdf]](https://www.jorismueller.com/files/chinaaid_latest_draft.pdf/)"
 
 
 summary: "
-I study how domestic political considerations influence the foreign policy choices of autocratic regimes, by analyzing the case of Chinese foreign aid. First, using contractor-level data, I find that the regime allocates foreign aid projects to help maintain political stability: aid projects are awarded to state-owned firms in Chinese prefectures hit by social unrest, increasing employment and political stability. Second, I show that this strategy to manage domestic unrest affects the global allocation of Chinese aid, since state-owned firms pursue projects in countries where they have prior connections. Finally, I document that foreign aid triggered by domestic unrest does not affect political instability in recipient countries on average. <br/>
+I study how domestic political considerations influence the foreign policy choices of autocratic regimes, by analyzing China's foreign aid. First, using contractor-level data, I find that the regime allocates foreign aid projects to help maintain political stability: aid projects are awarded to state-owned firms in Chinese prefectures hit by social unrest, increasing employment and political stability. Second, I show that this strategy to manage domestic unrest affects the global allocation of Chinese aid, since state-owned firms pursue projects in countries where they have prior connections. Finally, I document that foreign aid triggered by domestic unrest does not affect political instability in recipient countries on average. <br/>
 
-*Media coverage: Project Syndicate, US-China Today, VoxDev* <br/>
+*Media coverage: AidData, Project Syndicate, US-China Today, VoxDev* <br/>
 
 [[pdf]](https://www.jorismueller.com/files/chinaaid_latest_draft.pdf/)"
 

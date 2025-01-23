@@ -19,17 +19,20 @@ publication_short: ""
 abstract: "
 I study how domestic political considerations influence the foreign policy choices of autocratic regimes, by analyzing China's foreign aid. First, using contractor-level data, I find that the regime allocates foreign aid projects to help maintain political stability: aid projects are awarded to state-owned firms in Chinese prefectures hit by social unrest, increasing employment and political stability. Second, I show that this strategy to manage domestic unrest affects the global allocation of Chinese aid, since state-owned firms pursue projects in countries where they have prior connections. Finally, I document that foreign aid triggered by domestic unrest does not affect political instability in recipient countries on average. <br/>
 
-*Media coverage: AidData, Project Syndicate, US-China Today, VoxDev* <br/>
+*Media coverage: Project Syndicate, US-China Today, VoxDev* <br/>
 
-[[pdf]](https://www.jorismueller.com/files/chinaaid_latest_draft.pdf/)"
+*[[AidData working paper]](https://docs.aiddata.org/ad4/pdfs/WPS133_The_Domestic_Political_Economy_of_Chinas_Foreign_Aid.pdf)* <br/>
 
+[[latest version pdf]](https://www.jorismueller.com/files/chinaaid_latest_draft.pdf/)"
 
 summary: "
 I study how domestic political considerations influence the foreign policy choices of autocratic regimes, by analyzing China's foreign aid. First, using contractor-level data, I find that the regime allocates foreign aid projects to help maintain political stability: aid projects are awarded to state-owned firms in Chinese prefectures hit by social unrest, increasing employment and political stability. Second, I show that this strategy to manage domestic unrest affects the global allocation of Chinese aid, since state-owned firms pursue projects in countries where they have prior connections. Finally, I document that foreign aid triggered by domestic unrest does not affect political instability in recipient countries on average. <br/>
 
-*Media coverage: AidData, Project Syndicate, US-China Today, VoxDev* <br/>
+*Media coverage: Project Syndicate, US-China Today, VoxDev* <br/>
 
-[[pdf]](https://www.jorismueller.com/files/chinaaid_latest_draft.pdf/)"
+*[[AidData working paper]](https://docs.aiddata.org/ad4/pdfs/WPS133_The_Domestic_Political_Economy_of_Chinas_Foreign_Aid.pdf)* <br/>
+
+[[latest version pdf]](https://www.jorismueller.com/files/chinaaid_latest_draft.pdf/)"
 
 featured: true
 ---

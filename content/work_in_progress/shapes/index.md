@@ -1,5 +1,5 @@
 ---
-title: "Diversity and the Shape of Polities"
+title: "What Shapes Conflict?"
 authors: ["with Siddharth George"] 
 date: 2023-03-15
 

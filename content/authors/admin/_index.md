@@ -75,6 +75,6 @@ highlight_name: true
 # - Visitors
 ---
 
-I am an Assistant Professor of Economics at the National University of Singapore. My research focuses on the political economy of development, particularly the connections between economic forces and political (in)stability in developing countries. I teach methods for research in applied microeconomics.
+I am an Assistant Professor of Economics at the National University of Singapore. My research focuses on the political economy of autocracies and fragile democracies, with a particular emphasis on understanding the causes and consequences of political stability and instability in developing economies. I teach research methods in applied microeconomics.
 
 **Email:** jorismueller@nus.edu.sg

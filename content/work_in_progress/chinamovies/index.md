@@ -1,7 +1,7 @@
 ---
 title: "China Goes Hollywood"
 authors: ["with Ruben Durante", "Karsten Mueller", "Carlo Schwarz", "Chuyue Tian"] 
-date: 2024-05-15
+date: 2025-05-01
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""

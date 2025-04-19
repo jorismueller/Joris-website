@@ -33,10 +33,10 @@ education:
     year: 2022
   - course: MSc Economics
     institution: London School of Economics and Political Science
-    year: 2016 (with Distinction)
+    year: 2016
   - course: BA Economics
     institution: University of Zurich
-    year: 2014 (summa cum laude)
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

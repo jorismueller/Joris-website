@@ -1,7 +1,7 @@
 --- 
 title: "The Domestic Political Economy of China's Foreign Aid"
 authors: ["Joris Mueller"]
-date: 2025-03-25
+date: 2025-06-14
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.jorismueller.com/files/chinaaid_latest_draft.pdf"

@@ -18,7 +18,7 @@ publication_short: ""
 
 abstract: "
 ** **Review of Economics and Statistics (conditionally accepted)** ** <br/>
-I study how domestic political considerations influence the foreign policy choices of autocratic regimes, by analyzing China's foreign aid. First, using contractor-level data, I find that the regime allocates foreign aid projects to help maintain political stability: aid projects are awarded to state-owned firms in Chinese prefectures hit by social unrest, increasing employment and political stability. Second, I show that this strategy to manage domestic unrest affects the global allocation of Chinese aid, since state-owned firms pursue projects in countries where they have prior connections. Finally, I document that foreign aid triggered by domestic unrest does not affect political instability in recipient countries on average. <br/>
+I study how domestic political considerations influence the foreign policy choices of autocratic regimes, by analyzing China’s foreign aid. First, using contractor-level data, I document how the regime uses foreign aid projects to help maintain domestic stability: aid projects are awarded to state-owned firms in Chinese prefectures hit by social unrest, increasing employment and future political stability. Second, I find that this strategy to manage domestic unrest affects the global allocation of Chinese aid, since state-owned firms pursue projects in countries where they have prior connections. <br/>
 
 *Media coverage: Project Syndicate, US-China Today, VoxDev* <br/>
 
@@ -28,7 +28,7 @@ I study how domestic political considerations influence the foreign policy choic
 
 summary: "
 ** **Review of Economics and Statistics (conditionally accepted)** ** <br/>
-I study how domestic political considerations influence the foreign policy choices of autocratic regimes, by analyzing China's foreign aid. First, using contractor-level data, I find that the regime allocates foreign aid projects to help maintain political stability: aid projects are awarded to state-owned firms in Chinese prefectures hit by social unrest, increasing employment and political stability. Second, I show that this strategy to manage domestic unrest affects the global allocation of Chinese aid, since state-owned firms pursue projects in countries where they have prior connections. Finally, I document that foreign aid triggered by domestic unrest does not affect political instability in recipient countries on average. <br/>
+I study how domestic political considerations influence the foreign policy choices of autocratic regimes, by analyzing China’s foreign aid. First, using contractor-level data, I document how the regime uses foreign aid projects to help maintain domestic stability: aid projects are awarded to state-owned firms in Chinese prefectures hit by social unrest, increasing employment and future political stability. Second, I find that this strategy to manage domestic unrest affects the global allocation of Chinese aid, since state-owned firms pursue projects in countries where they have prior connections. <br/>
 
 *Media coverage: Project Syndicate, US-China Today, VoxDev* <br/>
 

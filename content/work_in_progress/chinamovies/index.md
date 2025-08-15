@@ -1,5 +1,5 @@
 ---
-title: "China Goes Hollywood"
+title: "Autocratic Soft Power: China in Hollywood”"
 authors: ["with Ruben Durante", "Karsten Mueller", "Carlo Schwarz", "Chuyue Tian"] 
 date: 2025-04-01
 

@@ -1,5 +1,5 @@
 ---
-title: "Public Displays of Alignment: Firm Speech in Autocratic Regimes"
+title: "Public Displays of Alignment: Firm Speech in an Autocratic Regime"
 authors: ["with Jaya Wen","Cheryl Wu"]
 date: 2025-06-15
 

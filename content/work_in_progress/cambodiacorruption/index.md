@@ -1,5 +1,5 @@
 ---
-title: "Benevolent Corruption"
+title: "Autocratic Capture of Development: Evidence from Cambodia's Demining Campaig"
 authors: ["with Daniel Borbely", "Mathias Buehler", "Jonathan Norris"] 
 date: 2025-06-26
 

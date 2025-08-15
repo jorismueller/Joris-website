@@ -1,5 +1,5 @@
 ---
-title: "The Political Economy of Chinese Resource Extraction: A New Dataset"
+title: "Autocratic Resource Extraction: Evidence from China's Global Mining Investments"
 
 authors: ["with David Kreitmeir"]
 

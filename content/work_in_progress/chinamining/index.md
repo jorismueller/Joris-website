@@ -1,7 +1,7 @@
 ---
-title: "Autocratic Resource Extraction: Evidence from China's Global Mining Investments"
+title: "The Political Economy of China's Global Resource Extraction"
 
-authors: ["with David Kreitmeir"]
+authors: ["with David Kreitmeir", "Paul Schaudt"]
 
 date: 2024-06-01
 

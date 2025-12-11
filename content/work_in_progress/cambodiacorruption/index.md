@@ -1,5 +1,5 @@
 ---
-title: "Autocratic Capture of Development: Evidence from Cambodia's Demining Campaign"
+title: "Autocratic Capture of Development"
 authors: ["with Daniel Borbely", "Mathias Buehler", "Jonathan Norris"] 
 date: 2025-06-26
 

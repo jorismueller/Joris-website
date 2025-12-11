@@ -1,7 +1,7 @@
 ---
 title: "Public Displays of Alignment"
 authors: ["with Zi Yang Kang", "Jaya Wen","Cheryl Wu"]
-date: 2025-12-12
+date: 2025-12-11
 
 external_link: "https://www.jorismueller.com/files/public_displays.pdf/"
 

@@ -1,7 +1,7 @@
 ---
-title: "Autocratic Capture of Development"
+title: "Political Accountability and the Returns to Peace"
 authors: ["with Daniel Borbely", "Mathias Buehler", "Jonathan Norris"] 
-date: 2025-06-26
+date: 2026-03-11
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""

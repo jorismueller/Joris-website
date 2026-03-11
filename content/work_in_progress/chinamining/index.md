@@ -1,9 +1,9 @@
 ---
-title: "The Political Economy of China's Global Resource Extraction"
+title: "Hegemonic Resource Competition"
 
 authors: ["with David Kreitmeir", "Paul Schaudt"]
 
-date: 2024-06-01
+date: 2026-03-10
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""

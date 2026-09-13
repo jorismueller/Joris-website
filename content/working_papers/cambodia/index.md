@@ -1,7 +1,7 @@
 ---
-title: "Political Accountability and the Returns to Peace"
+title: "Demining, Development, and Dispossession"
 authors: ["with Daniel Borbely", "Mathias Buehler", "Jonathan Norris"] 
-date: 2026-04-24
+date: 2026-09-09
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.jorismueller.com/files/cambodia_latest_draft.pdf"
@@ -16,13 +16,11 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Why do some economies recover from armed conflict much better than others? We provide evidence that political accountability determines whether post-conflict societies realize the peace dividend. We study Cambodia, where a nationwide landmine clearance campaign created large local potential surpluses by freeing arable land and reducing victimization by 48%. Whether these surpluses translate into realized development
-depends on accountability. Using a staggered difference-in-differences strategy, we show that clearance raises the probability of any nightlights by 7.3 percentage points in areas with strong pre-existing demand for checks and balances on political elites. Where such demand is weak, the effect is close to zero. Elite capture explains the divergence. In low-accountability areas, clearance increases land concessions, deforestation, land
-disputes, and labor displacement. Where accountability is strong, clearance instead raises household consumption by 22%. Post-conflict recovery requires not just the existence of a peace dividend but political constraints on its capture."
+abstract: "Landmine clearance restores the productive value of contaminated land, promising economic development. However, clearance also sparks competition over the land where war has left ownership claims unclear. What happens to the land once it is demined, and who captures the benefits? We address this question in Cambodia, historically one of the most mine-contaminated countries in the world, using a staggered difference-in-
+differences design on a commune panel from 1992 to 2014. Clearance raises the probability that a commune contains a large-scale land concession to more than five times its pre-clearance level, assigning the land to private companies. At the same time, local development gains as measured by nightlights are small. These averages hide two divergent outcomes, separated by how well local claims to the land were recorded by the time of clearance. Where records are widespread, cleared communes light up by 4.7 percentage points and household consumption rises by roughly a third. Where they are rare, land concessions and disputes rise, while development and household consumption gains are close to zero. Post-conflict reconstruction that recovers land but not the records of who holds it risks dispossessing the communities who depend on it."
 
-summary: "Why do some economies recover from armed conflict much better than others? We provide evidence that political accountability determines whether post-conflict societies realize the peace dividend. We study Cambodia, where a nationwide landmine clearance campaign created large local potential surpluses by freeing arable land and reducing victimization by 48%. Whether these surpluses translate into realized development
-depends on accountability. Using a staggered difference-in-differences strategy, we show that clearance raises the probability of any nightlights by 7.3 percentage points in areas with strong pre-existing demand for checks and balances on political elites. Where such demand is weak, the effect is close to zero. Elite capture explains the divergence. In low-accountability areas, clearance increases land concessions, deforestation, land
-disputes, and labor displacement. Where accountability is strong, clearance instead raises household consumption by 22%. Post-conflict recovery requires not just the existence of a peace dividend but political constraints on its capture."
+summary: "Landmine clearance restores the productive value of contaminated land, promising economic development. However, clearance also sparks competition over the land where war has left ownership claims unclear. What happens to the land once it is demined, and who captures the benefits? We address this question in Cambodia, historically one of the most mine-contaminated countries in the world, using a staggered difference-in-
+differences design on a commune panel from 1992 to 2014. Clearance raises the probability that a commune contains a large-scale land concession to more than five times its pre-clearance level, assigning the land to private companies. At the same time, local development gains as measured by nightlights are small. These averages hide two divergent outcomes, separated by how well local claims to the land were recorded by the time of clearance. Where records are widespread, cleared communes light up by 4.7 percentage points and household consumption rises by roughly a third. Where they are rare, land concessions and disputes rise, while development and household consumption gains are close to zero. Post-conflict reconstruction that recovers land but not the records of who holds it risks dispossessing the communities who depend on it."
 
 featured: false
 ---

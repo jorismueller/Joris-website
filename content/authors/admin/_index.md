@@ -16,6 +16,8 @@ role: Assistant Professor of Economics
 organizations:
 - name: National University of Singapore
   url: "https://fass.nus.edu.sg/ecs/"
+- name: CESifo
+  url: "https://www.cesifo.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an economist working on the political economy of development.

@@ -16,6 +16,7 @@ role: Assistant Professor of Economics
 organizations:
 - name: National University of Singapore
   url: "https://fass.nus.edu.sg/ecs/"
+- name: Affiliate Member
 - name: CESifo
   url: "https://www.cesifo.org/"
 
